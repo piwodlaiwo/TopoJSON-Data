@@ -11,4 +11,5 @@ TopoJSON Data Files to Build Maps
 * [TopoJSON Collection](https://piwodlaiwo.github.io/topojson/)
     * [Example](http://bl.ocks.org/piwodlaiwo/5346af5ffb415c0df878c654193db721) of World Continents with D3v4 with Labels
 * [World Atlas](https://github.com/topojson/world-atlas)
-    * [Example](https://bl.ocks.org/piwodlaiwo/3734a1357696dcff203a94012646e932) of a [D3.js](https://github.com/d3/d3) World Map using World Atlas data via [UNPKG](https://unpkg.com/world-atlas@1.1.4/world/)
+    * [Example](https://bl.ocks.org/piwodlaiwo/3734a1357696dcff203a94012646e932) of a [D3.js](https://github.com/d3/d3) World Map using World Atlas data via [UNPKG](https://unpkg.com/world-atlas@1.1.4/world/)  
+* [US States Simplified](https://gist.github.com/piwodlaiwo/b051b4a4246270d0bec2d7235f4863d7) - if you do not have to use US counties, this topojson is more appriopriete
