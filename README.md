@@ -8,6 +8,7 @@ TopoJSON Data Files to Build Maps
         * Example of this map data file used in a D3 Map: [Map of Spain](https://bl.ocks.org/piwodlaiwo/8283bebe2ad96c0904ef3c8f0bf3a489/cbb0bed7bf6fdbcc1496c76e76d3af66f4a507ea)   
         
 ## Other Online Data Files
-* [TopoJSON Collection](https://github.com/deldersveld/topojson)
+* [TopoJSON Collection](https://piwodlaiwo.github.io/topojson/)
+    * [Example](http://bl.ocks.org/piwodlaiwo/5346af5ffb415c0df878c654193db721) of World Continents with D3v4 with Labels
 * [World Atlas](https://github.com/topojson/world-atlas)
     * [Example](https://bl.ocks.org/piwodlaiwo/3734a1357696dcff203a94012646e932) of a [D3.js](https://github.com/d3/d3) World Map using World Atlas data via [UNPKG](https://unpkg.com/world-atlas@1.1.4/world/)
